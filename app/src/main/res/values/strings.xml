@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Cristofer Nuñez</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio"> Hola, mi nombre es Cristofer.
+        \n\nAmo la música.
+        \n\nDesde pequeño he disfrutado descubriendo nuevos géneros, artistas y sonidos que me inspiran.
+        \n\nYa sea tocando algún instrumento o simplemente disfrutando de mis canciones favoritas, siempre encuentro una manera de conectarme a través de la música.
+        \n\nMe encanta explorar nuevas melodías y compartir con los demás lo que la música significa para mí.
+        \n\nLa música no solo es un pasatiempo, sino una parte esencial de mi vida. Me encanta cómo una simple canción puede transformar un momento, despertar emociones o contar una historia.
+    </string>
+    <string name="what_is_your_nickname">¿Cuál es tu apodo?</string>
+    <string name="done">Done</string>
+</resources>
